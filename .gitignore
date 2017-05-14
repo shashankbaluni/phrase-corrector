@@ -1,0 +1,5 @@
+*.pyc
+*.csv
+assets/*/*.txt
+assets/obj
+.DS_Store
